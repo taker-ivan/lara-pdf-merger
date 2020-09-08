@@ -26,5 +26,10 @@
         "psr-0": {
             "LynX39\\LaraPdfMerger": "src/": "stub"
         }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "taker-ivan/lara-pdf-merger"
+        }
     }
 }

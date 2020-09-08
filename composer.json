@@ -1,6 +1,7 @@
 {
     "name": "taker-ivan/lara-pdf-merger",
     "description": "",
+    "version": "v1.0.0",
     "keywords": ["merger","merge","pdf","manage","paginate", "laravel"],
     "license" : [
         "MIT"

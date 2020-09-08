@@ -1,7 +1,6 @@
 {
     "name": "taker-ivan/lara-pdf-merger",
     "description": "",
-    "version": "v1.0.0",
     "keywords": ["merger","merge","pdf","manage","paginate", "laravel"],
     "license" : [
         "MIT"
@@ -19,7 +18,7 @@
     "homepage" : "https://github.com/taker-ivan/lara-pdf-merger",
     "autoload": {
         "psr-0": {
-            "LynX39\\LaraPdfMerger": "src/"
+            "LynX39\\LaraPdfMerger": "src/": "stub"
         }
     }
 }

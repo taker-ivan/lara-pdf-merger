@@ -24,12 +24,12 @@
     "homepage" : "https://github.com/taker-ivan/lara-pdf-merger",
     "autoload": {
         "psr-0": {
-            "LynX39\\LaraPdfMerger": "src/": "stub"
+            "LynX39\\LaraPdfMerger": "src/"
         }
     },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "taker-ivan/lara-pdf-merger"
+    "autoload-dev": {
+        "psr-0": {
+            "LynX39\\LaraPdfMerger": "src/"
         }
     }
 }
